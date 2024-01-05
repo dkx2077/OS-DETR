@@ -1,4 +1,6 @@
 # Brain Tumor Detection based on Orthogonal Channel Shuffle
+Kaixin Deng1, Quan Wen1*, Fan Yang1, Hang Ouyang1, Zhuohang Shi1, Shiyu Shuai1
+1 College of Computer Science and Cyber Security (Oxford Brookes College), Chengdu University of Technology, Chengdu 610059, China
 
 ## Overview
 Welcome to the official repository of "Brain Tumor Detection based on Orthogonal Channel Shuffle." This repository will eventually contain the complete code, datasets, and documentation of our study. We will soon finalize this repository.
