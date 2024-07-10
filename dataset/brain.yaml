@@ -1,0 +1,11 @@
+# dataset path
+path: /root/autodl-tmp/RTDETR-main/
+train: ./dataset/dataset-Br35H/traindata/
+val: ./dataset/dataset-Br35H/valdata/
+test: ./dataset/dataset-Br35H/valdata/
+
+# number of classes
+nc: 1
+
+# class names
+names: ['0']

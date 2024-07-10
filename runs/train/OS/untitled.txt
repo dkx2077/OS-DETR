@@ -1,0 +1,6 @@
+Ultralytics YOLOv8.0.201 🚀 Python-3.8.10 torch-1.11.0+cu113 CUDA:0 (NVIDIA GeForce RTX 3090, 24260MiB)
+rtdetr-Ortho-AIFI-DAT-Shuffle summary: 367 layers, 19963540 parameters, 0 gradients, 57.2 GFLOPs
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 26/26 [00:02<00:00, 11.80it/s]
+                   all        201        201       0.95      0.945      0.949      0.744
+Speed: 0.4ms preprocess, 7.8ms inference, 0.0ms loss, 0.3ms postprocess per image
+Results saved to runs/train/rtdetr-Ortho-AIFI-DAT-Shuffle-new-SO5
